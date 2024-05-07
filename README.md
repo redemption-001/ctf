@@ -2,6 +2,8 @@
 
 ![1](assets_ctfd/x-bb.png)
 
+![2](assets_ctfd/Top-10-Teams.png)
+
 ## pwn
 1. babypwn
   - solved by
