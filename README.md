@@ -144,3 +144,6 @@
 ## reverse
 1. babyre
   - 0 solves
+
+
+![2](assets_ctfd/scoreboard.png)
