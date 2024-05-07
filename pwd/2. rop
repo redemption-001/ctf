@@ -1,0 +1,11 @@
+# rop
+### 150
+While studying C I created this program that says hi to you.
+
+I forgot to remove a function that reads important data but it doesn't matter as it's never called anywhere in the code.
+
+- https://docs.pwntools.com/en/stable/intro.html#making-connections
+
+nc 192.168.1.216 8073
+
+rop e rop.c
